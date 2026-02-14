@@ -48,8 +48,8 @@ Sou desenvolvedor backend e engenheiro de dados na Procuradoria Geral do Ceará.
 ## 📫 Contato
 - Empresa: Procuradoria Geral do Ceará  
 - LinkedIn: [Eduardo Coelho](https://www.linkedin.com/in/educoelhos/)  
-- Email: seu-email@exemplo.com  
-- Portfolio: https://seu-site.com
+- Email: eduardocoelhosilva12@gmail.com
+
 
 ---
 
