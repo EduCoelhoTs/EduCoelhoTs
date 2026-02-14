@@ -51,12 +51,3 @@ Sou desenvolvedor backend e engenheiro de dados na Procuradoria Geral do Ceará.
 - Email: eduardocoelhosilva12@gmail.com
 
 
----
-
-## ✅ Próximos passos que posso fazer por você
-- Personalizar os textos (breve bio mais formal), adicionar links diretos para 3 projetos fixados e suas descrições/impacto.
-- Ajustar o tema dos cards de estatísticas (dark, radical, dracula, light).
-- Adicionar badges extras (ex.: CI, cobertura de testes, license).
-- Criar o repositório e fazer o push diretamente (se você autorizar via convite ou me fornecer instrução segura).
-
-Obrigado — me diga qual opção prefere (A ou B) e se quer que eu já personalize a bio / o tema dos cards (qual tema prefere: dark / radical / dracula / light?).  
